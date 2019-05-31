@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of ka_kotlin
+> tutorials based on the kotlin apprentice book
 
 You can use the [editor on GitHub](https://github.com/samykhelifa/ka_kotlin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
